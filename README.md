@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can't see the shadows when you're looking at me
+> Caught up in a moment where we're wild and we're free
+> It's a beautiful darkness where I wanted to be
+> Yeah, I'm blinded by love and it's all I can see
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
