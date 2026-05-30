@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Blinded By Love
+
+This log tracks the cryptographic history and versioning for the song **Blinded By Love** (blinded-by-love).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-30T13:06:52.745728 | `v1` | `71529800471bbef5c753f0421d054dbaf452a496cfc0b37d6b85711ee18fa4c8` | `cf89a4c0ee74335bd6e419dd82275601fccf1682339f1ba3846fd47380981596` | `2026-05-30_blinded-by-love-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

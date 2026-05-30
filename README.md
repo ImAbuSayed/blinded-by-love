@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/blinded-by-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Blinded By Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/blinded-by-love/) |
+| **Get License** | [License this song: Blinded By Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/blinded-by-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `71529800471bbef5c753f0421d054dbaf452a496cfc0b37d6b85711ee18fa4c8` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
